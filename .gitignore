@@ -84,3 +84,10 @@ docs/docusaurus/website/node_modules
 **/managed_components/
 *.lock
 /.metadata/
+
+
+#Espressig IDE
+.clangd
+.cproject
+.project
+tool_set_config.json
